@@ -1,0 +1,17 @@
+{
+  "name": "01-node-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-module.js",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
